@@ -1,0 +1,12 @@
+export const authToken = "authToken";
+export const userId = "userId";
+export const lgId = "lgId";
+export const userName = "userName";
+export const ownedLg = "ownedLg";
+export const aboutLg = "aboutLg";
+export const emailId = "emailId";
+export const lifeEvent = "lifeEvent";
+export const lgPlan = "lgPlan";
+export const frozenMoments = "frozenMoments";
+export const alert = "alert";
+export const spinner = "spinner";

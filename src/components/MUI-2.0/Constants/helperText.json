@@ -1,0 +1,17 @@
+{
+    "errors":{
+        "userNameValidationErr":"Only 45 characters are allowed",
+        "passwordValidationErr": "Password must has at least 8 characters that include at least 1 lowercase character, 1 uppercase characters, 1 number, and 1 special character in (!@#$%^&*)" ,
+        "passwordMissMatchErr": "Your password does not match with the password that you have entered",
+        "emailValidationErr":"Enter a proper email",
+        "enterPasswordFirstErr" : "Enter Password First",
+        "fieldIsRequired" : "This field is required",
+        "apiFailed":"API call failed" 
+    },
+    "texts":{
+        "termsAndCondition" :"By clicking Agree & Sign Up, you agree to the Lifograf User Agreement, Privacy Policy, and Cookie Policy.",
+        "signupHeader":"Stay updated with your family",
+        "signupFooter":"Have your own Lifograf ? "
+    }
+    
+}

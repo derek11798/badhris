@@ -1,0 +1,46 @@
+/* body {
+display: grid;
+place-items: center;
+padding: 24px 0;
+background-image: url("../../../Asserts/Bg/Wave.svg");
+background-size: 2000px 1000px;
+background-position: -500px 0;
+color: #f9f9f9;
+animation: background 20s infinite alternate linear;  } */
+
+body{
+    height: 100%;
+}
+h6 a{
+    text-decoration: none;
+}
+.signup{
+    margin-top: 5%;
+}
+
+
+.container{
+    max-width: 480px;
+    padding: 0;
+}
+.seperator{
+    display: flex;
+    align-items: center; 
+}
+.seperator span{
+    margin: 0 12px;
+    
+}
+
+.seperator::before{
+    content: "";
+    width: 50%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.15);    
+}
+.seperator::after{
+    content: "";
+    width: 50%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.15);    
+}

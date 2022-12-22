@@ -1,0 +1,17 @@
+.statisticts-container{
+    /* display: flex; */
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border-color: #C4C4C4;
+    color: #000;
+    text-align: left;
+    width: 275px;
+    margin-left: 18px;
+}
+
+.statisticts-text{
+    margin-left: 25px;
+    font-weight: 600;
+    font-size: 36px;
+    color: #444B59;
+}

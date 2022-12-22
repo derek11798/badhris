@@ -1,0 +1,58 @@
+.header-container{
+float: right;
+}
+
+.header-container a{
+    margin: 0px 40px;
+    text-decoration: none;
+}
+.body-container-left{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.body-container-left .social-title{
+    height: 43px;
+    width: 192px;
+}
+
+.body-container-left .social-title .welcome{
+    font-size: 36px;
+    letter-spacing: 3px;
+    margin-left: 100px;
+    margin-top: 91px;
+}
+
+.body-container-left .already-have-account{
+margin-left: 100px;
+margin-top: 20px;
+}
+
+.body-container-left .sign-up-with{
+margin-left: 200px;
+margin-top: 20px;
+}
+
+.body-container-left .sign-up-with .span1{
+    font-weight: 400;
+}
+
+.body-container-left .logo-login{
+    margin-left: 100px;
+    /* margin-top: 20px; */
+}
+
+.body-container-left .logo-login .google{
+    margin: 0px 50px;
+    border-radius: 2px red;
+    
+}
+
+.body-container-left .logo-login .facebook{
+    margin: 0px 50px;
+}
+
+
+
+
+
